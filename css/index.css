@@ -1,0 +1,14 @@
+
+img.card-img-top {
+      background-image: url("../img/Cohete.png");
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: contain;
+      width: 100%;
+      height: 200px;
+      vertical-align: top;
+}
+
+img.card-img-top:hover{
+      filter: sepia(60%);
+}
